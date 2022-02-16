@@ -16,7 +16,7 @@ My professional interest are in creating elegant, purpose-built solutions for to
 - [**Rust**](https://www.rust-lang.org/) — "A language empowering everyone to build reliable and efficient software."
 - [**Bevy**](https://bevyengine.org/) — "A refreshingly simple data-driven game engine built in Rust."
 
-#### Stars 🌠
+#### Stars 🌟
 
 Check-out my [Starred Repositories](https://github.com/realStandal?tab=stars) — useful, open-source software built by amazing people.
 
