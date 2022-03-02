@@ -7,7 +7,7 @@ My professional interest are in creating elegant, purpose-built solutions for to
 #### Working On 🔭
 
 <!-- - [**LockTech Software**](http://locktech.software) — _The Lockard Technology Co. - Software Division_ -->
-- [**RedwoodJS**](https://github.com/redwoodjs/redwood) — "The App Framework for Startups"
+- [**RedwoodJS**](https://github.com/redwoodjs/redwood) — "From side project to startup."
 - [**Atomic**](https://locktech.github.io/atomic) — A customizable toolkit and component library for building reactive, accessible UIs for RedwoodJS applications.
 - [**Sequoia**](https://github.com/locktech/sequoia) — A script to quickly setup npm packages, which are tailor-made for RedwoodJS.
 
