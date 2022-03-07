@@ -4,7 +4,8 @@ I'm Ryan Lockard — a self taught, full-stack developer from the United States.
 
 My professional interest are in creating elegant, purpose-built solutions for today and tomorrow's problems — focusing on a person-centered approach.
 
-**I'm looking for work!** Ideally in a full-time position — I'm available for full-time, part-time, or even contract work.
+**I'm looking for work!** 👷‍♂️<br/>
+Ideally in a full-time position — I'm available for full-time, part-time, or even contract work.
 Please feel free to get in contact, and request my  resume, by sending me an email: `jesselockard99@gmail.com` or via a [DM on Discord](https://discord.com/users/589297626319552517)
 
 #### Working On 🔭
