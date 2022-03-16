@@ -11,8 +11,8 @@ Please feel free to get in contact, and request my  resume, by sending me an ema
 #### Working On 🔭
 
 <!-- - [**LockTech Software**](http://locktech.software) — _The Lockard Technology Co. - Software Division_ -->
-- [**RedwoodJS**](https://github.com/redwoodjs/redwood) — "From side project to startup."
-- [**Atomic**](https://locktech.github.io/atomic) — A customizable toolkit and component library for building reactive, accessible UIs for RedwoodJS applications.
+- [**RedwoodJS**](https://github.com/redwoodjs/redwood) — "From side project to startup" - A full-stack app-framework for JavaScript.
+- **Atomic** — A recipe for creating accessible, pleasing-to-build user-interfaces for RedwoodJS.
 - [**Sequoia**](https://github.com/locktech/sequoia) — A script to quickly setup npm packages, which are tailor-made for RedwoodJS.
 
 #### Learning 📘
