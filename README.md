@@ -13,7 +13,7 @@ Please feel free to get in contact, and request my  resume, by sending me an ema
 <!-- - [**LockTech Software**](http://locktech.software) — _The Lockard Technology Co. - Software Division_ -->
 <!-- - **Palletized** — Project management application for commercial and industrial material distributors. -->
 - [**RedwoodJS**](https://github.com/redwoodjs/redwood) — "From side project to startup" - A full-stack app-framework for JavaScript.
-- **Atomic** — A recipe for creating accessible, pleasing-to-build user-interfaces for RedwoodJS.
+- [**Atomic**](https://github.com/realStandal/redwoodjs-tips-n-workflows/blob/main/atomic.md#atomic) — A recipe for creating accessible, pleasing-to-build user-interfaces for RedwoodJS.
 - [**Sequoia**](https://github.com/locktech/sequoia) — A script to quickly setup npm packages, which are tailor-made for RedwoodJS.
 
 #### Learning 📘
