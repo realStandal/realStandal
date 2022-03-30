@@ -1,6 +1,6 @@
 ## Nice to meet you 🤝
 
-I'm Ryan Lockard — a self taught, full-stack developer from the United States.
+I'm Ryan Lockard — a full-stack developer from the United States.
 
 My professional interest are in creating elegant, purpose-built solutions for today and tomorrow's problems — focusing on a person-centered approach.
 
