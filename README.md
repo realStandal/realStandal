@@ -1,3 +1,5 @@
+> Hey, you! If you're a student, do yourself a favor and get the [GitHub Student Developer Pack](https://education.github.com/pack).
+
 ## Nice to meet you&nbsp;&nbsp;🤝
 
 I'm Ryan Lockard — a full-stack developer from the United States.
