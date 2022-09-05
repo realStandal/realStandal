@@ -6,20 +6,11 @@ I'm Ryan Lockard — a full-stack developer from the United States.
 
 My professional interest are in creating elegant, purpose-built solutions for today and tomorrow's problems — focusing on a person-centered approach.
 
-<!--
-> **I'm looking for work!** 👷‍♂️<br/>
-> Ideally in a full-time position — I'm available for full-time, part-time, or even contract work.
-> Please feel free to get in contact, and request my  resume, by sending me an email: `jesselockard99@gmail.com` or via a [DM on Discord](https://discord.com/users/589297626319552517)
--->
-
 ### Working On&nbsp;&nbsp;🔭
 
-<!-- - [**LockTech Software**](http://locktech.software) — _The Lockard Technology Co. - Software Division_ -->
-<!-- - **Palletized** — Project management application for equipment and material distributors. -->
-<!-- - [**Sequoia**](https://github.com/locktech/sequoia) — A script to quickly setup npm packages, which are tailor-made for RedwoodJS. -->
-- [**Treasure Chess**](https://treasure.chess.com) — Treasure your Chess Games.
+<!-- - [**LockTech Inc.**](http://locktech.software) -->
+<!-- - [**Palletized**](https://palletized.app) — Project management for equipment and material distributors. -->
 - [**RedwoodJS**](https://github.com/redwoodjs/redwood) — "The App Framework for Startups" - A full-stack framework for JavaScript.
-- [**Atomic**](https://github.com/realStandal/redwoodjs-tips-n-workflows/blob/main/atomic.md#atomic) — A recipe for creating accessible, pleasing-to-build user-interfaces for RedwoodJS.
 
 ### Learning&nbsp;&nbsp;📘
 
