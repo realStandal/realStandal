@@ -14,8 +14,10 @@ My professional interest are in creating elegant, purpose-built solutions for to
 
 ### Learning&nbsp;&nbsp;📘
 
-- [**Rust**](https://www.rust-lang.org/) — "A language empowering everyone to build reliable and efficient software."
-- [**Bevy**](https://bevyengine.org/) — "A refreshingly simple data-driven game engine built in Rust."
+- [**Go**](https://go.dev/)
+  - See [Alex Edwards' blog](https://www.alexedwards.net/) for a great set of posts about the Go language.
+- [**Rust**](https://www.rust-lang.org/)
+- [**Bevy**](https://bevyengine.org/)
 
 ### Stars&nbsp;&nbsp;🌟
 
