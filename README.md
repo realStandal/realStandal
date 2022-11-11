@@ -2,9 +2,9 @@
 
 ## Nice to meet you&nbsp;&nbsp;🤝
 
-I'm Ryan Lockard — a full-stack developer from the United States.
+I'm Ryan Lockard — a developer from the United States.
 
-My professional interest are in creating elegant, purpose-built solutions for today and tomorrow's problems — focusing on a person-centered approach.
+My professional interest are in creating elegant, purpose-built solutions for today and tomorrow's problems — focusing on a person-centered approach. Personally, I like fast cars and making cool things.
 
 ### Working On&nbsp;&nbsp;🔭
 
@@ -17,7 +17,7 @@ My professional interest are in creating elegant, purpose-built solutions for to
 - [**Go**](https://go.dev/)
   - See [Alex Edwards' blog](https://www.alexedwards.net/) for a great set of posts about the Go language.
 - [**Rust**](https://www.rust-lang.org/)
-- [**Bevy**](https://bevyengine.org/)
+  - [**Bevy**](https://bevyengine.org/)
 
 ### Stars&nbsp;&nbsp;🌟
 
