@@ -6,6 +6,10 @@ I'm Ryan Lockard — a developer from the United States.
 
 My professional interest are in creating elegant, purpose-built solutions for today and tomorrow's problems — focusing on a person-centered approach. Personally, I like fast cars and making cool things.
 
+You can contact me via email at jesselockard99@gmail.com.
+
+Have a great day!
+
 ### Working On&nbsp;&nbsp;
 
 <!-- - [**LockTech Inc.**](http://locktech.software) -->
