@@ -14,7 +14,8 @@ Have a great day!
 
 <!-- - [**LockTech Inc.**](http://locktech.software) -->
 <!-- - [**Palletized**](https://palletized.app) — Project management for equipment and material distributors. -->
-- **Project: Los Santos** — A GTA: San Andreas [Open Multiplayer](https://www.open.mp/) server set in Los Santos, San Andreas.
+- **Project: Los Santos** — GTA: San Andreas [Open Multiplayer](https://www.open.mp/) server set in Los Santos, San Andreas.
+- [**Luna**](https://github.com/locktech/luna) — Automotive extension powered by <a href="https://www.electronjs.org/">Electron</a> and low-cost hardware.
 
 ### Learning&nbsp;&nbsp;
 
