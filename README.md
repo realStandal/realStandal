@@ -14,7 +14,7 @@ Have a great day!
 
 <!-- - [**LockTech Inc.**](http://locktech.software) -->
 <!-- - [**Palletized**](https://palletized.app) — Project management for equipment and material distributors. -->
-- [**RedwoodJS**](https://github.com/redwoodjs/redwood) — "The App Framework for Startups" - A full-stack framework for JavaScript.
+- **Project: Los Santos** — A GTA: San Andreas [Open Multiplayer](https://www.open.mp/) server set in Los Santos, San Andreas.
 
 ### Learning&nbsp;&nbsp;
 
